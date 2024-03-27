@@ -50,11 +50,11 @@
 
 ## 🔍 Connect with me
 
-[<img src="https://img.shields.io/badge/Email-mariasolgonzalez240%40gmail.com-green" alt="Email badge" title="Email" height="25" />][email_anchor]
+[<img src="https://img.shields.io/badge/Email-mariasolgonzalez240%40gmail.com-green" alt="Email badge" title="Email" height="25" />](mailto:mariasolgonzalez240@gmail.com){:target="_blank"}
 <br>
-[<img src="https://img.shields.io/badge/LinkedIn-Maria%20Sol%20Gonzalez-blue" alt="LinkedIn badge" title="LinkedIn" height="25" />][linkedin_anchor]
+[<img src="https://img.shields.io/badge/LinkedIn-Maria%20Sol%20Gonzalez-blue" alt="LinkedIn badge" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sol-gonz%C3%A1lez-8967b5139/){:target="_blank"}
 <br>
-[<img src="https://img.shields.io/badge/Instagram-Solg.24-purple" alt="Instagram badge" title="Instagram" height="25" />][instagram_anchor]
+[<img src="https://img.shields.io/badge/Instagram-Solg.24-purple" alt="Instagram badge" title="Instagram" height="25" />](https://www.instagram.com/solg.24/){:target="_blank"}
 
 [email_anchor]: mailto:mariasolgonzalez240@gmail.com
 [linkedin_anchor]: https://www.linkedin.com/in/sol-gonz%C3%A1lez-8967b5139/
