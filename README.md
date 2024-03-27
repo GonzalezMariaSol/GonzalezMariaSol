@@ -50,7 +50,7 @@
 
 ## 🔍 Connect with me
 
-[<img src="https://img.shields.io/badge/Email-mariasolgonzalez240%40gmail.com-green" alt="Email badge" title="Email" height="25" />](mailto:mariasolgonzalez240@gmail.com){:target="_blank"}
+[<img src="https://img.shields.io/badge/Email-mariasolgonzalez240%40gmail.com-green" alt="Email badge" title="Email" height="25" /> {:target="_blank"}](mailto:mariasolgonzalez240@gmail.com)
 <br>
 [<img src="https://img.shields.io/badge/LinkedIn-Maria%20Sol%20Gonzalez-blue" alt="LinkedIn badge" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sol-gonz%C3%A1lez-8967b5139/){:target="_blank"}
 <br>
