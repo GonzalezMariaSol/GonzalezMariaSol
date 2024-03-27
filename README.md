@@ -1,5 +1,7 @@
 <div style="width:100%; overflow:hidden;">
-  <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <!-- <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
+![Alt text](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)
+
 </div>
 <h1 align="center">Hi 👋, I'm Sol ☀️</h1>
 <h3 align="center">I'm always on a coding rollercoaster 🎢 — frustrated one minute, over the moon the next when everything falls into place! 💻</h3>
