@@ -1,6 +1,6 @@
 <abc>
 <br>
-    <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" alt="Coder GIF" width="100%">
+    <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" alt="Coder GIF" width="100%" height="130vh">
 </br>
 <h1 align="center">Hi 👋, I'm Sol ☀️</h1>
 <h3 align="center">I'm always on a coding rollercoaster 🎢 — frustrated one minute, over the moon the next when everything falls into place! 💻</h3>
