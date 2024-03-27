@@ -1,9 +1,10 @@
-<div style="width:100%; overflow:hidden;">
-![Alt text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-</div>
+<abc>
+<br>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="100%">
+</br>
 <h1 align="center">Hi 👋, I'm Sol ☀️</h1>
 <h3 align="center">I'm always on a coding rollercoaster 🎢 — frustrated one minute, over the moon the next when everything falls into place! 💻</h3>
+</abc>
 
 &nbsp;
 &nbsp;
