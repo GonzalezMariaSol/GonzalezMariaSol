@@ -1,6 +1,5 @@
 <div style="width:100%; overflow:hidden;">
-  <!-- <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
-![Alt text](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)
+![Alt text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 </div>
 <h1 align="center">Hi 👋, I'm Sol ☀️</h1>
